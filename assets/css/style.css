@@ -242,7 +242,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../../hero-bg.jpg") top right no-repeat;
+  background: url("https://github.com/bro-da/template-site/blob/9046ee7c71493290a25156db9ab29191bdd2bbfa/img/hero-bg.jpg") top right no-repeat;
   background-size: cover;
   position: relative;
 }
